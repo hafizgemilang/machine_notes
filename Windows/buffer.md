@@ -19,6 +19,7 @@ Buffer overflow
     `!mona bytearray -b "\x00"`
 
 - generate a string of bad character	
+
     `Using badchars.py`
 
 - compare bad character 	
