@@ -19,7 +19,6 @@ Buffer overflow
     `!mona bytearray -b "\x00"`
 
 - generate a string of bad character	
-
     `Using badchars.py`
 
 - compare bad character 	
@@ -40,3 +39,6 @@ update retn with new address from jump point
 
 - add padding	
     `"\x90" * 16`
+
+-   Search through directories in the `$PATH` environment variable  
+    `which sbd`
