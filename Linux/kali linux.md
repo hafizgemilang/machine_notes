@@ -3104,3 +3104,6 @@ Windows Pre-Compiled Binaries
 Here is a repository of pre compiled binaries to use for exploit, instead of compile you can download and execute it.
 
 `https://github.com/abatchy17/WindowsExploits`
+
+
+sudo nmap -T5 --top-ports 100 -sU --open [ip]
